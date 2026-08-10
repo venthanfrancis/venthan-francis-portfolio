@@ -19,9 +19,9 @@ export const socialLinks: SocialLink[] = [
   },
   {
     label: 'GitHub',
-    url: 'https://github.com/VS-Studio-Hub',
-    icon: 'bi-github',
-    ariaLabel: 'Visit Venthan Francis on GitHub'
+      url: 'https://github.com/venthanfrancis',
+      icon: 'bi-github',
+      ariaLabel: 'Visit Venthan Francis on GitHub'
   },
   {
     label: 'Email',
